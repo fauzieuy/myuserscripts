@@ -2,6 +2,7 @@
 // @name           Remove Jebakan Betmen On Kaskus
 // @author		   fauzieuy (http://fauzieuy.github.io)
 // @version        1.0.0
+// @description    remove jebakan betmen on kaskus, such as : link on spoiler
 // @icon	       http://fauzieuy.github.io/myuserscripts/images/kaskus/jebmen.png
 // @include        /^https?://(|www\.)kaskus.co.id/thread/*/
 // @include        /^https?://(|www\.)kaskus.co.id/lastpost/*/
